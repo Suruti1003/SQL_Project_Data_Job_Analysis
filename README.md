@@ -129,4 +129,3 @@ Combined demand and salary data to find high-value skills.
 ## 🧠 Final Thoughts
 This project sharpened my SQL skills and deepened my understanding of the data job landscape. By identifying high-impact skills, I’ve built a clear roadmap for further learning and job preparation.
 
-> "The best data analysts don't just explore data—they ask the right questions."  
